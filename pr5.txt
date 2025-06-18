@@ -1,0 +1,2 @@
+mysql:x:111:123:MySQL Server,,,:/nonexistent:/bin/false
+adelkandi:x:1001:1001:Adel Kandi,,,:/home/adelkandi:/bin/bash

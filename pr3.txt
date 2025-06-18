@@ -1,0 +1,5 @@
+total 16
+4 drwxr-xr-x  4 root      root      4096 Jun 18 11:26 .
+4 drwxr-xr-x 18 root      root      4096 May 12 20:17 ..
+4 drwx------  2 adelkandi adelkandi 4096 Jun 18 11:26 adelkandi
+4 drwx------ 15 pi        pi        4096 Jun 18 11:39 pi

@@ -1,0 +1,16 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 localhost:ipp           0.0.0.0:*               LISTEN     
+tcp        0      0 localhost:mysql         0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN     
+tcp        0      0 adelpi.tail579f73:54970 0.0.0.0:*               LISTEN     
+tcp        0      0 adelpi.ht.home:54260    ec2-52-207-202-18:https ESTABLISHED
+tcp        0      0 adelpi.ht.home:44170    ec2-18-199-123-246:http ESTABLISHED
+tcp        0      0 adelpi.ht.home:47666    static.106.152.15:https ESTABLISHED
+tcp        0      0 adelpi.tail579f73.t:ssh adelpc.tail579f73:53689 ESTABLISHED
+tcp        0     52 adelpi.tail579f73.t:ssh adelpc.tail579f73:53561 ESTABLISHED
+tcp6       0      0 [::]:5900               [::]:*                  LISTEN     
+tcp6       0      0 localhost:ipp           [::]:*                  LISTEN     
+tcp6       0      0 fd7a:115c:a1e0::e:60249 [::]:*                  LISTEN     
+tcp6       0      0 [::]:ssh                [::]:*                  LISTEN     
+tcp6       0      0 [::]:http               [::]:*                  LISTEN     
